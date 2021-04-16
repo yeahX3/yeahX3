@@ -1,0 +1,3 @@
+- Hi, my name is Nelson.
+- I am Computer science student who likes to create anything. Just knowing that anything I created saved someone time fills me with pride.
+- Currently familiar with C# and Java. Looking forward to gain more knowledge on Web and Web apps.
